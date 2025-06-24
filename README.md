@@ -1,7 +1,3 @@
-Of course! Here is a comprehensive README.md for your project, "Hulla".
-
-This README is structured to be clear and informative for anyone visiting your repository, including your college colleagues, potential contributors, or future you! It explains the project's purpose, features, and how to get it running.
-
 Hulla (حُـلَّـة) 📖
 
 ![alt text](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -176,12 +172,3 @@ Push to the Branch (git push origin feature/AmazingFeature)
 
 Open a Pull Request
 
-📜 License
-
-Distributed under the MIT License. See LICENSE file for more information (if one is added).
-
-📬 Contact
-
-Your Name - @YourTwitterHandle - your.email@example.com
-
-Project Link: https://github.com/[YOUR_GITHUB_USERNAME]/abualmun-hulla-frontend
